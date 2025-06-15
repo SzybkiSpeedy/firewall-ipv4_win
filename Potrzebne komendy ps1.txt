@@ -1,0 +1,8 @@
+Komendy do powershella...
+Otwieramy Powetshell jako administrator!!
+
+Odblokowanie skryptów .ps1: "Set-ExecutionPolicy Bypass"
+
+Wpisujemy " cd -LiteralPath "AdresFolderuDocelowego" " aby przejść do danego folderu   np. [ cd -LiteralPath "E:\YouTube\1 Skull\375 Optymalizacja Windows 10 [2023](ostatnia)\Pliki\Optymalizacja Windows 10 [2023](ostatnia)\3 Windows Debloat"]
+
+pliki .ps1 uruchamiamy wpisując "./nazwa-pliku"  

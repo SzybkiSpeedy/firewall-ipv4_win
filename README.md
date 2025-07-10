@@ -4,3 +4,5 @@
 > [!IMPORTANT]
 > Lista IPv4 do zablokowania w twoim FireWall [Lista IPv4](https://github.com/SzybkiSpeedy/firewall-ipv4_win/blob/main/IP-BLOCK_Firewall.txt)
 
+> [!not]
+> Zaktualizowano 10.07.2025 - 16:01
